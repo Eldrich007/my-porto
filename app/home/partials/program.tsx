@@ -10,7 +10,6 @@ const Program = () => {
     <Section
       tittle='Tailored IT Solutions for Every Industry'
       subtittle='From finance to healthcare and retail, we provide cutting-edge technology solutions to drive efficiency, security, and growth in your industry'
-      id='program'
     >
       <Tabs defaultValue={programData[0].key} orientation='horizontal'>
         <TabsList>
